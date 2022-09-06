@@ -1,0 +1,20 @@
+body{
+  background-color : black;
+  color : white;
+  font-family : calibri; 
+}
+
+#img-caption{
+  width : 300px;
+}
+
+#image{
+  max-width:100%;
+  height:auto; #height nyesuain dengan width
+  display : block
+}
+
+/*
+ 1) Tujuan dibuat #image biar g ada gambar yang kepotong alias 100% kayak asli
+*/
+	  
